@@ -1,5 +1,5 @@
 # Removing-a-range-of-text-between-2-key-words-in-a-text-file-
-I'm trying to remove a black of text between the words "Current Depth" and "BHA INFORMATION"
+I'm trying to remove a block of text between the words "Current Depth" and "BHA INFORMATION"
 
 Currently I'm using the Find and Replace window with the "Find what:" set with the regex " Current Depth.*?BHA INFORMATION INFORMATION "
 This has successfully found "Current Depth -everything in between- to the end of the string BHA INFORMATION"
